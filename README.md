@@ -1,7 +1,7 @@
 # IUCNet
 This project is an open source experimental project of "IUCNet: A Novel Semantic Segmentation Network for Overlapping Industrial Parts Detection" based on MMsegemantaion scaffolding.
 The README (Original) is the official self-contained version.
-The path where the home-made dataset of the paper is stored is: ". \data\mydata".
+The path where the home-made dataset of the paper is stored is: ". \data\mydata".(Please see the download link for the dataset in the Data Availability Statement section of the manuscript and unzip it into the directory above)
 
 The models involved in the experiments of this project include:
 1. DeepLabV3 (ResNet101). Configuration files: ". \configs\deeplabv3\deeplabv3_r101b-d8_*.py"
